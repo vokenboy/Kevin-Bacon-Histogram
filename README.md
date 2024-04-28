@@ -36,7 +36,4 @@ The project is organized into several packages, each handling a specific aspect 
 2. Run the Application:
 Start the application by running:
    ``` bash
-  java main.java.demo.Main
-4. Follow the On-Screen Instructions:
-  Enter the name of the movie database file when prompted (e.g., cast06.txt).
-  Enter actor names to find their Bacon numbers or type 'exit' to conclude.
+   java main.java.demo.Main
